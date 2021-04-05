@@ -4,25 +4,19 @@
 ## Table of contents
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
-  - [Screenshots](#screenshots)
   - [Technologies](#technologies)
   - [Status](#status)
   - [Inspiration](#inspiration)
   - [Contact](#contact)
 
 ## General info
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
+I have decided to generate random quotes from Arnie when the program runs.
 
 ## Technologies
 * Javascript ES6
 
-## To-do list:
-
-
 ## Status
-Project is: _in progress_
+Project is: _complete
 
 ## Inspiration
 Project based on Codecademy FullStack development path challenge
